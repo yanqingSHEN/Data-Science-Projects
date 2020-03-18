@@ -80,7 +80,7 @@ inspect(cleanset[1:5])
 
 #lets now provide some structure to tweets by creating a matrix of rows/coloums
 #this is called term document matrix (tdm)
-#Create term document matrix
+#Create term document matrixs
 
 tdm <- TermDocumentMatrix(cleanset)
 tdm 
