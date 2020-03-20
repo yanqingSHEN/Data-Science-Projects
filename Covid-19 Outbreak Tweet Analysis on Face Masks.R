@@ -1,10 +1,10 @@
 ###Obtaining and Analyzing Twitter Data using R###
 
 #1. Insert Values
-api_key <- 'db9w4v7CNeHDEgWMNpKieeUPi'
-api_secret <- 'LA9psxLyxzaJjla2JYvVi8Se7LuF8UuvpeJNFKFedf9IOvUzKP'
-access_token <- '1181316409344684032-G2auM4VXNLlQrXFIlfFuhBajGQvAgc'
-access_token_secret <-'zJSxDnFJiIlilApBE97lywc7e36vhGWuQn7pxVFlJbAor'
+api_key <- 
+api_secret <- 
+access_token <- 
+access_token_secret <-
 
 library(twitteR)
 setup_twitter_oauth(api_key, 
